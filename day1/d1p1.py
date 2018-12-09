@@ -1,4 +1,4 @@
-freq_list = open("input/day1.txt")
+freq_list = open("inputd1.txt")
 
 freq = 0
 for line in freq_list:
